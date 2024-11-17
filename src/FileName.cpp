@@ -54,7 +54,7 @@ void ConstrainCursorWithinWindow(HWND targetWindow) {
 
 
 int main() {
-    printf("マイクラのマウス逃げちゃうやつ治すやつツール (日本語病気)")
+    printf("マイクラのマウス逃げちゃうやつ治すやつツール (日本語病気)");
     if (!IsRunningAsAdmin()) {
         std::cout << "このアプリケーションは管理者権限で実行する必要があります。" << std::endl;
         return 1;
