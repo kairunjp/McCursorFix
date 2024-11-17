@@ -7,4 +7,4 @@
 
 ポーリングレートの変え方 (Logicoolの場合)
 
-![ポーリングレート画像](https://github.com/kairunjp/McCursorFix/blob/main/git/2024-11-17 225106.jpg)
+![ポーリングレート画像](https://github.com/kairunjp/McCursorFix/blob/main/git/2024-11-17%20225106.jpg?raw=true)
